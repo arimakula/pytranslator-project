@@ -14,4 +14,4 @@ def main():
     print("Translated Text:", translated_text)
 
 if __name__ == "__main__":
-    main()
+    main() 
